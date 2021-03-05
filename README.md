@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, Agung here 👋
 
-<!--
-**agungprasetio18/agungprasetio18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer :robot:
 
-Here are some ideas to get you started:
+Fighters :climbing_man:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+:brain: Mystical Logic
+
+- 🤔 I’m looking for help with A.I who can fix my code automatically
+- 🌱 I’m love Flutter, Laravel and vue
+- :earth_asia: I'm from Bogor - Indonesia
+- :video_game: I like to play video games
+
+
+
+
