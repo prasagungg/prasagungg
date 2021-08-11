@@ -4,9 +4,11 @@ Software engineer :robot:
 
 Fighters :climbing_man:
 
-## About Me
+Writter 
 
-:brain: Mystical Logic
+Artist
+
+## About Me
 
 - 🤔 I’m looking for help with A.I who can fix my code automatically
 - 🌱 I’m love Flutter, Laravel and vue
