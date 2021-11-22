@@ -11,7 +11,7 @@ Artist
 ## About Me
 
 - 🤔 I’m looking for help with A.I who can fix my code automatically
-- 🌱 I’m love Flutter, Laravel and vue
+- 🌱 I’m love Node Js, Laravel, React and vue
 - :earth_asia: I'm from Bogor - Indonesia
 - :video_game: I like to play video games
 
