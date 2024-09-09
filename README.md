@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/prasagungg/prasagungg/blob/main/wallpaperflare.com_wallpaper.jpg)
 # <div align="center">Hai, im Agung prasetio 👋</div>
 <div align="center">My journey in the world of programming has been a thrilling adventure, where I have honed my skills and learned to love every aspect of it.
 I believe in the power of code to transform ideas into reality.</div>
